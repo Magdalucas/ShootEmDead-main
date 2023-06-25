@@ -1,0 +1,333 @@
+D:\Download\Firefox\Proyecto Base 2\Game\bin\Debug\Engine.dll
+D:\Download\Firefox\Proyecto Base 2\Game\bin\Debug\ship.png
+D:\Download\Firefox\Proyecto Base 2\Game\bin\Debug\Game.exe
+D:\Download\Firefox\Proyecto Base 2\Game\bin\Debug\Game.pdb
+D:\Download\Firefox\Proyecto Base 2\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\Download\Firefox\Proyecto Base 2\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Download\Firefox\Proyecto Base 2\Game\obj\Debug\Game.exe
+D:\Download\Firefox\Proyecto Base 2\Game\obj\Debug\Game.pdb
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos\Proyecto Base 2\Game\bin\Debug\Engine.dll
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos\Proyecto Base 2\Game\bin\Debug\Game.exe
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos\Proyecto Base 2\Game\bin\Debug\Game.pdb
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos\Proyecto Base 2\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos\Proyecto Base 2\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos\Proyecto Base 2\Game\obj\Debug\Game.exe
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos\Proyecto Base 2\Game\obj\Debug\Game.pdb
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos\Proyecto Base 2\Game\bin\Debug\Textures\BackgroundSpace.png
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos\Proyecto Base 2\Game\bin\Debug\Textures\ship.png
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos por clase\Proyecto Base 2\Game\bin\Debug\Textures\BackgroundSpace.png
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos por clase\Proyecto Base 2\Game\bin\Debug\Engine.dll
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos por clase\Proyecto Base 2\Game\bin\Debug\Textures\ship.png
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos por clase\Proyecto Base 2\Game\bin\Debug\Game.exe
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos por clase\Proyecto Base 2\Game\bin\Debug\Game.pdb
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos por clase\Proyecto Base 2\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos por clase\Proyecto Base 2\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos por clase\Proyecto Base 2\Game\obj\Debug\Game.exe
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos por clase\Proyecto Base 2\Game\obj\Debug\Game.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Textures\BackgroundSpace.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Engine.dll
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Textures\ship.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Game.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Game.exe
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Game.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\obj\Debug\Game.exe
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\obj\Debug\Game.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Textures\Ship\0.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Textures\Ship\1.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Textures\Ship\2.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Textures\Ship\3.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\BackgroundSpace.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Engine.dll
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\ship.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\Ship\0.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\Ship\1.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\Ship\2.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\Ship\3.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Game.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Game.exe
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Game.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\obj\Debug\Game.exe
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\obj\Debug\Game.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\Screens\Credits.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\Screens\GameOver.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\Screens\Level.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\Screens\MainMenu.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\Screens\Win.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\obj\Debug\Game.exe
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\obj\Debug\Game.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\BackgroundSpace.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Engine.dll
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Screens\Credits.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Screens\GameOver.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Screens\Level.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Screens\MainMenu.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Screens\Win.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\ship.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Ship\0.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Ship\1.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Ship\2.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Ship\3.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Game.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Game.exe
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Game.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Bullet\Idle\0.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Bullet\Idle\1.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Bullet\Idle\2.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Bullet\Idle\3.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\obj\Debug\Game.exe
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\obj\Debug\Game.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\BackgroundSpace.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Engine.dll
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Bullet\Idle\0.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Bullet\Idle\1.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Bullet\Idle\2.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Bullet\Idle\3.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Screens\Credits.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Screens\GameOver.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Screens\Level.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Screens\MainMenu.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Screens\Win.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\ship.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Ship\0.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Ship\1.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Ship\2.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Ship\3.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Game.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Game.exe
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Game.pdb
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\BackgroundSpace.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Engine.dll
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Bullet\Idle\0.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Bullet\Idle\1.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Bullet\Idle\2.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Bullet\Idle\3.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\Credits.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\GameOver.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\Level.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\MainMenu.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\Win.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\ship.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Ship\0.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Ship\1.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Ship\2.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Ship\3.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Game.exe.config
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Game.exe
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Game.pdb
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\obj\Debug\Game.exe
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\obj\Debug\Game.pdb
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Idles\Idle1.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Idles\Idle2.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Idles\Idle3.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Idles\Idle4.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Idles\Idle5.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Idles\Idle6.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Idles\Idle7.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Deads\Dead1.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Deads\Dead2.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Deads\Dead3.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Deads\Dead4.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Idles\Idle1.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Idles\Idle2.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Idles\Idle3.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Idles\Idle4.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Idles\Idle5.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Idles\Idle6.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Idles\Idle7.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Idles\Idle8.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Idles\Idle9.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Shoots\Shoot1.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Shoots\Shoot2.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Shoots\Shoot3.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Shoots\Shoot4.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Walks\Walks1.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Walks\Walks2.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Walks\Walks3.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Walks\Walks4.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Walks\Walks5.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Walks\Walks6.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Walks\Walks7.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierder\Walks\Walks8.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Deads\Dead1.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Deads\Dead2.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Deads\Dead3.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Deads\Dead4.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Shoots\Shoot1.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Shoots\Shoot2.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Shoots\Shoot3.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Shoots\Shoot4.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Walks\Walk1.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Walks\Walk2.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Walks\Walk3.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Walks\Walk4.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Walks\Walk5.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Walks\Walk6.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Soldierizq\Walks\Walk7.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Bullet2\Idle\0.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Bullet2\Idle\1.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Bullet2\Idle\2.png
+C:\Users\magda\Desktop\Proyecto - Clase 7\Game\bin\Debug\Textures\Bullet2\Idle\3.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\BackgroundSpace.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Engine.dll
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Bullet2\Idle\0.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Bullet2\Idle\1.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Bullet2\Idle\2.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Bullet2\Idle\3.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Bullet\Idle\0.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Bullet\Idle\1.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Bullet\Idle\2.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Bullet\Idle\3.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Screens\Credits.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Screens\GameOver.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Screens\Level.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Screens\MainMenu.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Screens\Win.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\ship.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Ship\0.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Ship\1.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Ship\2.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Ship\3.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Deads\Dead1.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Deads\Dead2.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Deads\Dead3.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Deads\Dead4.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Idles\Idle1.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Idles\Idle2.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Idles\Idle3.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Idles\Idle4.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Idles\Idle5.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Idles\Idle6.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Idles\Idle7.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Idles\Idle8.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Idles\Idle9.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Shoots\Shoot1.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Shoots\Shoot2.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Shoots\Shoot3.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Shoots\Shoot4.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Walks\Walks1.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Walks\Walks2.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Walks\Walks3.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Walks\Walks4.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Walks\Walks5.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Walks\Walks6.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Walks\Walks7.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierder\Walks\Walks8.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Deads\Dead1.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Deads\Dead2.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Deads\Dead3.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Deads\Dead4.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Idles\Idle1.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Idles\Idle2.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Idles\Idle3.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Idles\Idle4.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Idles\Idle5.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Idles\Idle6.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Idles\Idle7.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Shoots\Shoot1.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Shoots\Shoot2.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Shoots\Shoot3.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Shoots\Shoot4.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Walks\Walk1.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Walks\Walk2.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Walks\Walk3.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Walks\Walk4.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Walks\Walk5.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Walks\Walk6.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Walks\Walk7.png
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Game.exe.config
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Game.exe
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\bin\Debug\Game.pdb
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\obj\Debug\Game.exe
+C:\Users\estre\OneDrive\Documentos\UADE\ShootEmDead\Shootemdead\Game\obj\Debug\Game.pdb
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\BackgroundSpace.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Engine.dll
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Bullet2\Idle\0.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Bullet2\Idle\1.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Bullet2\Idle\2.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Bullet2\Idle\3.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Bullet\Idle\0.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Bullet\Idle\1.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Bullet\Idle\2.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Bullet\Idle\3.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Screens\Credits.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Screens\GameOver.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Screens\Level.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Screens\MainMenu.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Screens\Win.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\ship.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Ship\0.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Ship\1.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Ship\2.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Ship\3.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Deads\Dead1.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Deads\Dead2.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Deads\Dead3.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Deads\Dead4.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Idles\Idle1.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Idles\Idle2.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Idles\Idle3.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Idles\Idle4.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Idles\Idle5.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Idles\Idle6.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Idles\Idle7.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Idles\Idle8.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Idles\Idle9.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Shoots\Shoot1.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Shoots\Shoot2.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Shoots\Shoot3.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Shoots\Shoot4.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Walks\Walks1.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Walks\Walks2.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Walks\Walks3.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Walks\Walks4.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Walks\Walks5.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Walks\Walks6.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Walks\Walks7.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierder\Walks\Walks8.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Deads\Dead1.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Deads\Dead2.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Deads\Dead3.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Deads\Dead4.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Idles\Idle1.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Idles\Idle2.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Idles\Idle3.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Idles\Idle4.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Idles\Idle5.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Idles\Idle6.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Idles\Idle7.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Shoots\Shoot1.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Shoots\Shoot2.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Shoots\Shoot3.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Shoots\Shoot4.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Walks\Walk1.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Walks\Walk2.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Walks\Walk3.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Walks\Walk4.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Walks\Walk5.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Walks\Walk6.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Textures\Soldierizq\Walks\Walk7.png
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Game.exe.config
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Game.exe
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\bin\Debug\Game.pdb
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\obj\Debug\Game.exe
+C:\Users\magda\OneDrive\Escritorio\ShootEmDead-main\Shootemdead\Game\obj\Debug\Game.pdb
